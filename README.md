@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bis-zum-letzten-atemzug/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bis zum letzten Atemzug](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-zum-letzten-atemzug/) |
+| **Get License** | [Secure Licensing Rights for Bis zum letzten Atemzug](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-zum-letzten-atemzug/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nachts um halb vier und die Skyline wird wach
+> Lass sie nur reden, wir fliegen aufs Dach
+> Spür' deine Lippen, mein Herz schlägt Alarm
+> Du bist mein Luxus, verlierst nie den Charme
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
